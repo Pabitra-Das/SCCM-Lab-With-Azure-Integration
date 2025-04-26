@@ -35,17 +35,4 @@ VMware vSphere was used to host the virtual machines.
 - **Azure AD Connect** permissions issue — resolved by adding user to **Enterprise Admins** group.
 - **Client push installation failures** — resolved through administrative shares, firewall exceptions, and DNS checks.
 
----
 
-## GitHub Instructions
-If you want to import this file into GitHub:
-
-1. Create a new repository on [GitHub](https://github.com/).
-2. Name it something like `SCCM-Lab-With-Azure-Integration`.
-3. Click **"Add file"** → **"Create new file"** → name the file `README.md`.
-4. Paste this content into the editor.
-5. Commit the new file to `main` branch.
-
-GitHub will automatically format it beautifully.
-
----
